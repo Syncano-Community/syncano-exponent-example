@@ -1,7 +1,7 @@
 {
   "name": "SyncanoExponentExample",
   "version": "1.0.0",
-  "description": "An example app showcasing Syncano and Exponent integration",
+  "description": "An example app showcasing Syncano and Exponent integration.",
   "author": "Jakub Bilko <jakub.bolko@syncano.com>",
   "main": "main.js",
   "dependencies": {
