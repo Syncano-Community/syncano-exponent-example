@@ -2,7 +2,7 @@
   "name": "SyncanoExponentExample",
   "version": "1.0.0",
   "description": "An example app showcasing Syncano and Exponent integration.",
-  "author": "Jakub Bilko <jakub.bolko@syncano.com>",
+  "author": "Jakub Bilko <jakub.bilko@syncano.com>",
   "main": "main.js",
   "dependencies": {
     "@exponent/ex-navigation": "^1.5.8",
